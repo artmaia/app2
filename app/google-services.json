@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903403031760",
+    "project_id": "appreserva-fa9eb",
+    "storage_bucket": "appreserva-fa9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903403031760:android:2a70c03583a000a5f322d5",
+        "android_client_info": {
+          "package_name": "com.example.appreservas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaG3fprQb4MET7AEHxKP56EKYRAZzggXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
